@@ -220,3 +220,4 @@ npm install
 ---
 
 **Your HouseLy app should now be live on Netlify! 🎉** 
+...
